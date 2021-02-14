@@ -1,0 +1,65 @@
+// Place all the styles related to the blogs controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.top{
+	text-align:center;
+}
+
+
+
+.simple-calendar .day{
+	height:100px
+}
+
+.calendar-heading{
+	text-align:center;
+	padding-bottom:10px;
+	font-size:20px;
+}
+
+.schedule{
+	font-size:25px;
+	font-weight:bold;
+	padding-bottom:20px;
+}
+.toppage{
+	width:90%;
+	margin:0 auto;
+}
+
+
+
+.col-md-4{
+	padding-top:80px;
+	
+}
+
+.title{
+	padding-top:30px;
+	padding-bottom:5px;
+}
+.time{
+	padding-bottom:10px;
+}
+.content{
+	padding-bottom:5px;
+}
+
+.form-tag{
+	font-weight:bold;
+}
+
+#blog_title{
+	height:30px;
+}
+#blog_content{
+	height:50px;
+}
+
+
+
+
+.show{
+font-size:20px;
+	}
