@@ -9,5 +9,6 @@ Bootstrap
 
 ## Author
 Yuma Maeda
+
 yumadesign1124@gmail.com
 
