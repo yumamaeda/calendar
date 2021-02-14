@@ -1,7 +1,7 @@
 # README
 
 ## アプリURL
-https://calendar0214.herokuapp.com/s
+https://calendar0214.herokuapp.com/
 
 ## 使用言語,フレームワーク
 Ruby
