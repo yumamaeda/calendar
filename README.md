@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## アプリURL
+URL:http://ec2-18-178-173-26.ap-northeast-1.compute.amazonaws.com:3000/users/sign_in
 
-* Ruby version
 
-* System dependencies
+## 使用言語,フレームワーク
+Ruby
+Ruby on Rails
+HTML
+CSS
+Bootstrap
 
-* Configuration
+## Author
+Yuma Maeda
+yumadesign1124@gmail.com
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
